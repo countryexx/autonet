@@ -1,0 +1,47 @@
+[{
+    "transportes": {
+        "servicios": {
+            "ver": true,
+            "creacion": true,
+            "edicion": true,
+            "eliminacion": true
+        },
+        "reconfirmacion": {
+            "ver": true,
+            "reconfirmar": true
+        },
+        "novedad": {
+            "ver": true,
+            "crear": true,
+            "editar": true,
+            "eliminar": true
+        },
+        "reportes": {
+            "ver": true
+        },
+        "encuesta": {
+            "ver": true,
+            "crear": true
+        },
+        "constancia": {
+            "ver": true,
+            "edicion": true
+        }
+    },
+    "contabilidad": {
+
+    },
+    "facturacion": {
+
+    },
+    "administrativo": {
+
+    },
+    "herramientas": {
+
+    },
+    "usuarios": {
+
+    }
+
+}]
